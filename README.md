@@ -16,3 +16,6 @@ Sentiment Analysis
 Content Consumption Insights
 Fairness Score Classification
 
+Power BI Report:
+Visualization
+Included ScreenShots of report in Dashboards Folder
